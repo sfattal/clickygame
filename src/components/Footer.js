@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 const Footer = () => (
     <footer className="footer">
         <div className="bottom">
-            Clicky Game! <img alt="react" src="assets/images/react.svg"/>
+            Premier League Memory Game <img alt="epl" src="../assets/images/logo.png"/>
         </div>
     </footer>
 )

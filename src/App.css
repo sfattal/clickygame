@@ -1,3 +1,35 @@
+.navbar {
+  min-height: 80px;
+  position: fixed;
+  width: 100%;
+  background-color: #0f7;
+  color: #3a063b;
+  font-size: 22px;
+  font-weight: bold;
+  z-index: 99;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.header {
+  background-color: #3a063b;
+  /* background-image: url("./assets/images/header.png"); */
+  background-repeat: repeat;
+  color: #fff;
+  min-height: 400px;
+  padding: 180px 20px;
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.footer {
+  background: #0f7;
+  height: 80px;
+  position: relative;
+  color: #3a063b;
+  overflow: auto;
+}
+
 .App {
   text-align: center;
 }

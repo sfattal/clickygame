@@ -1,82 +1,82 @@
 [
     {
-        "name": "Bournemouth",
-        "url": "./images/bou.png"
+        "name": "bournemouth",
+        "url": "./clubimgs/bou.png"
     },
     {
-        "name": "Arsenal",
-        "url": "./images/ars.png"
+        "name": "arsenal",
+        "url": "./clubimgs/ars.png"
     },
     {
-        "name": "Brighton and Hove Albion",
-        "url": "./images/bha.png"
+        "name": "brightonandhovealbion",
+        "url": "./clubimgs/bha.png"
     },
     {
-        "name": "Burnley",
-        "url": "./images/bur.png"
+        "name": "burnley",
+        "url": "./clubimgs/bur.png"
     },
     {
-        "name": "Cardiff City",
-        "url": "./images/car.png"
+        "name": "cardiffcity",
+        "url": "./clubimgs/car.png"
     },
     {
-        "name": "Chelsea",
-        "url": "./images/che.png"
+        "name": "chelsea",
+        "url": "./clubimgs/che.png"
     },
     {
-        "name": "Crystal Palace",
-        "url": "./images/cry.png"
+        "name": "crystalpalace",
+        "url": "./clubimgs/cry.png"
     },
     {
-        "name": "Everton",
-        "url": "./images/eve.png"
+        "name": "everton",
+        "url": "./clubimgs/eve.png"
     },
     {
-        "name": "Fulham",
-        "url": "./images/ful.png"
+        "name": "fulham",
+        "url": "./clubimgs/ful.png"
     },
     {
-        "name": "Huddersfield Town",
-        "url": "./images/hud.png"
+        "name": "huddersfieldtown",
+        "url": "./clubimgs/hud.png"
     },
     {
-        "name": "Leicester City",
-        "url": "./images/lei.png"
+        "name": "leicestercity",
+        "url": "./clubimgs/lei.png"
     },
     {
-        "name": "Liverpool",
-        "url": "./images/liv.png"
+        "name": "liverpool",
+        "url": "./clubimgs/liv.png"
     },
     {
-        "name": "Manchester City",
-        "url": "./images/mci.png"
+        "name": "manchestercity",
+        "url": "./clubimgs/mci.png"
     },
     {
-        "name": "Manchester United",
-        "url": "./images/mcu.png"
+        "name": "manchesterunited",
+        "url": "./clubimgs/mcu.png"
     },
     {
-        "name": "Newcastle United",
-        "url": "./images/new.png"
+        "name": "newcastleunited",
+        "url": "./clubimgs/new.png"
     },
     {
-        "name": "Southampton",
-        "url": "./images/sou.png"
+        "name": "southampton",
+        "url": "./clubimgs/sou.png"
     },
     {
-        "name": "Tottenham Hotspur",
-        "url": "./images/tot.png"
+        "name": "tottenhamhotspur",
+        "url": "./clubimgs/tot.png"
     },
     {
-        "name": "Watford ",
-        "url": "./images/wat.png"
+        "name": "watford",
+        "url": "./clubimgs/wat.png"
     },
     {
-        "name": "West Ham United",
-        "url": "./images/whu.png"
+        "name": "westhamunited",
+        "url": "./clubimgs/whu.png"
     },
     {
-        "name": "Wolverhampton Wanderers",
-        "url": "./images/wol.png"
+        "name": "wolverhamptonwanderers",
+        "url": "./clubimgs/wol.png"
     }
 ]

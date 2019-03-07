@@ -11,6 +11,13 @@
   text-align: center;
 }
 
+.navbar span {
+  display: inline-block;
+  padding: 26px 0;
+  width: 33.3%;
+  text-align: center;
+}
+
 .header {
   background-color: #3a063b;
   background-image: url("./images/header.png");
@@ -29,8 +36,14 @@
   position: relative;
   color: #fff;
   overflow: auto;
+  text-align: center;
 }
 
-.App {
-  text-align: center;
+.footer>.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  font-weight: 600;
 }

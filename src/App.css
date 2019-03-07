@@ -2,8 +2,8 @@
   min-height: 80px;
   position: fixed;
   width: 100%;
-  background-color: #0f7;
-  color: #3a063b;
+  background-color: #3a063b;
+  color: #fff;
   font-size: 22px;
   font-weight: bold;
   z-index: 99;
@@ -13,9 +13,10 @@
 
 .header {
   background-color: #3a063b;
-  /* background-image: url("./assets/images/header.png"); */
+  background-image: url("./images/header.png");
   background-repeat: repeat;
   color: #fff;
+  /* width: 1280px; */
   min-height: 400px;
   padding: 180px 20px;
   padding-bottom: 140px;
@@ -23,43 +24,13 @@
 }
 
 .footer {
-  background: #0f7;
+  background: #3a063b;
   height: 80px;
   position: relative;
-  color: #3a063b;
+  color: #fff;
   overflow: auto;
 }
 
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

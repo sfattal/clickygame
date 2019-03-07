@@ -34,7 +34,7 @@
   background: #3a063b;
   height: 80px;
   position: relative;
-  color: #fff;
+  color: white;
   overflow: auto;
   text-align: center;
 }
@@ -46,4 +46,5 @@
   right: 0;
   padding: 8px;
   font-weight: 600;
+  font-size: 8px;
 }

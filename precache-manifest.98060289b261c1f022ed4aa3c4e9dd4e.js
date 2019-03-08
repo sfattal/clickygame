@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/plmemorygame/static/media/ful.375a504e.png"
   },
   {
-    "revision": "d3936211c71af052abcb",
-    "url": "/plmemorygame/static/css/main.91b1349a.chunk.css"
+    "revision": "c9fc8a95eb4fab37bc25",
+    "url": "/plmemorygame/static/css/main.5c710f49.chunk.css"
   },
   {
     "revision": "06bdd5375a2462ba9fdd",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/plmemorygame/static/media/eve.738a7b8f.png"
   },
   {
-    "revision": "d3936211c71af052abcb",
-    "url": "/plmemorygame/static/js/main.d3936211.chunk.js"
+    "revision": "c9fc8a95eb4fab37bc25",
+    "url": "/plmemorygame/static/js/main.c9fc8a95.chunk.js"
   },
   {
     "revision": "9140dc9524707170175f38c11ecac49c",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/plmemorygame/static/media/header.f3cf4863.gif"
   },
   {
-    "revision": "553defbdf774d14726e39d77664de360",
+    "revision": "ebc7ac9045422d14ba11efca557cf59b",
     "url": "/plmemorygame/index.html"
   }
 ];

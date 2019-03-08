@@ -20,8 +20,10 @@ npm install
 ```
 npm start
 ```
-4. GitHub Pages:
-```
-https://sfattal.github.io/plmemorygame/
-```
+
+### Play online:
+- Hosted on GitHub Pages
+
+[Play Here](https://sfattal.github.io/plmemorygame/)
+
 <img src="./public/plmemorygame.gif">

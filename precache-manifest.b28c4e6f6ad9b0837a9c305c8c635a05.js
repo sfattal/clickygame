@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/ful.375a504e.png"
   },
   {
-    "revision": "750cdac026a6768c601e",
-    "url": "/clickygame/static/css/main.ce409ac3.chunk.css"
+    "revision": "43860e42fe36931ca061",
+    "url": "/clickygame/static/css/main.0c92d325.chunk.css"
   },
   {
     "revision": "976821e7c7c83f0311bc",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/eve.738a7b8f.png"
   },
   {
-    "revision": "750cdac026a6768c601e",
-    "url": "/clickygame/static/js/main.750cdac0.chunk.js"
+    "revision": "43860e42fe36931ca061",
+    "url": "/clickygame/static/js/main.43860e42.chunk.js"
   },
   {
     "revision": "9140dc9524707170175f38c11ecac49c",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/clickygame/static/media/header.f3cf4863.gif"
   },
   {
-    "revision": "f9fa984f36c738c2b50a42161269f276",
+    "revision": "4be2ba42a07c3b4dea96a60fdb8962ef",
     "url": "/clickygame/index.html"
   }
 ];

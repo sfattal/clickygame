@@ -4,7 +4,7 @@ const Navbar = (props) => (
     <nav className="navbar">
             <span>
                 {/* image in App.css */}
-                <a href="/" id="logo"> <span className="brand"></span></a>
+                <a href="/plmemorygame/" id="logo"> <span className="brand"></span></a>
             </span>
 
             <span className="">

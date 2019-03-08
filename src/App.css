@@ -20,7 +20,7 @@
 
 .header {
   background-color: #3a063b;
-  background-image: url("./images/header.gif");
+  background-image: url("../public/images/header.gif");
   background-repeat: repeat;
   color: #fff;
   /* width: 1280px; */

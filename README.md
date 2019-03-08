@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 
-### Play online:
+### Play Online
 - Hosted on GitHub Pages
 
 [Play Here](https://sfattal.github.io/plmemorygame/)

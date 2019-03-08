@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = (props) => (
     <nav className="navbar">
             <span className="brand">
-                <a href="/"><img alt="epl" src="./images/logo.png"/></a>
+                {/* image in App.css */}
             </span>
 
             <span className="">

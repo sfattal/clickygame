@@ -18,15 +18,26 @@
   text-align: center;
 }
 
+span.brand {
+  background-image: url("./images/logo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .header {
   background-color: #3a063b;
   background-image: url("./images/header.gif");
   background-repeat: repeat;
   color: #fff;
-  /* width: 1280px; */
+  text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
   min-height: 400px;
   padding: 180px 20px;
   padding-bottom: 140px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -36,6 +47,7 @@
   position: relative;
   color: white;
   overflow: auto;
+  margin-top: 20px;
   text-align: center;
 }
 
